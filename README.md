@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Linux</b>
+  - [File permissions in Linux](https://github.com/jorgeechevarria/File-Permission-in-Linux-)
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jorgeechevarria/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/jorgeechevarria/post-install-config)
